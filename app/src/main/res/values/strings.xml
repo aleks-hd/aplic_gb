@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">aplic_gb</string>
+    <string name="name_text">Введите текст</string>
+    <string name="name1_text">namePerson</string>
+    <string name="phone_text">phoneText</string>
+    <string name="number_text">numberText</string>
+    <string name="Password_text">passText</string>
+    <string name="email_text">email</string>
+    <string name="data_text">Data</string>
     <color name="red">#ff0000</color>
     <color name="green">#00ff00</color>
 </resources>

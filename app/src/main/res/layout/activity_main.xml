@@ -15,16 +15,17 @@
         android:text="TextView"
         android:textSize="20dp"/>
     <EditText
+        android:id="@+id/editTextHeader"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Edit text"
+        android:hint="Ввод данных"
         android:textSize="20dp"/>
 
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Второй макет"
         android:textSize="25dp"
         android:textStyle="bold"
         android:textColor="@android:color/holo_red_dark"
